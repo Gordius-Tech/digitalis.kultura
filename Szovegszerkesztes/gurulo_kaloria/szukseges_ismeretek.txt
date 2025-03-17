@@ -1,1 +1,14 @@
-
+Dokumentum létrehozása és mentése
+Oldalbeállítások
+Margók beállítása
+Oldaltájolás
+Stílusok használata
+Igazítások használata
+Szövegformázás
+Táblázat beszúrása
+Szegélyek módosítása
+Felsorolások létrehozása és formázása
+Kép beszúrása
+Kép elhelyezése
+Átlátszóság beállítása
+Fejléc szerkesztése
