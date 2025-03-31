@@ -1,0 +1,53 @@
+Alapvető dokumentumkezelés
+
+Dokumentum megnyitása, mentése és formátumok kezelése.
+
+Betűtípus és stílusok használata:
+
+Betűtípusok (Times New Roman, 14 pt) és betűstílusok (félkövér, fekete) beállítása.
+
+Szöveg igazítása (balra, jobbra, középre).
+
+Sortávolság beállítása (másfélszeres sortávolság).
+
+Különböző stílusok alkalmazása és módosítása (Cím, Kiemelt idézet, Erős hivatkozás, Idézet).
+
+Szövegformázás:
+
+A dokumentumban szereplő szövegek formázása stílusok segítségével.
+
+A "számozott lista" funkció használata a megfelelő felsorolás létrehozásához.
+
+Hivatkozások:
+
+Hiperlinkek létrehozása (pl. www.hotelpatyolatlan.hu).
+
+Szimbólumok és karakterek:
+
+Különböző szimbólumok beszúrása, például a telefon szimbólum (Wingdings betűtípus használatával).
+
+Képek beszúrása és igazítása:
+
+Kép beszúrása, méretezése és középre igazítása.
+
+Kép forrásának hozzáadása az élőlábhoz (a kép forrása és letöltési dátum).
+
+QR kódok:
+
+QR kód generálása külső weboldalon és beillesztése a dokumentumba.
+
+Fejléc és lábléc:
+
+Fejléc és lábléc hozzáadása, személyes adatok, például név és osztály beillesztése.
+
+Dokumentum mentése:
+
+A dokumentum mentése alapértelmezett formátumban.
+
+Ajánlott gyakorlati lépések:
+
+Az alapvető Word funkciók (betűtípus, stílusok, formázás) már ismerősnek kell lenniük.
+
+A felsorolások, szimbólumok és hivatkozások kezelése szintén alapvető, de szükség lehet egy kis gyakorlásra.
+
+A QR kód generálása és beillesztése újabb készség, amihez külső eszközt kell használni.
